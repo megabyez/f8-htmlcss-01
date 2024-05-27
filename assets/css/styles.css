@@ -144,6 +144,8 @@ a {
 
 .hero-img {
     position: absolute;
+    width: 50vh;
+    border-radius: 50px;
     right: calc((100vw - 1110px) / 2 - 100px);
     bottom: 0;
 }
